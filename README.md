@@ -2,7 +2,7 @@
 
 This is an Android application written in Kotlin to practice one architecture models in mobile world which is **MVVM (Model View ViewModel**.
 
-Things used in the application:
+Components used in the application:
 - AndroidViewModel
 - LiveData
 - Room
