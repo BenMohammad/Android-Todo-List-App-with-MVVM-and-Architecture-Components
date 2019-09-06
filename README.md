@@ -1,6 +1,6 @@
 # Android-Todo-List-App-with-MVVM-and-Architecture-Components
 
-This is an Android application written in Kotlin to practice one architecture models in mobile world which is **MVVM (Model View ViewModel**.
+This is an Android application written in Kotlin to practice one architecture models in mobile world which is **MVVM (Model View ViewModel)**.
 
 Components used in the application:
 - AndroidViewModel
